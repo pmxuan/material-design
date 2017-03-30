@@ -1,28 +1,27 @@
-- [关于](README.md)
-- Material Design 
+- [Material Design](README.md)
   - [概述](material-design/material-design-intro/introduction.md)
-- 什么是 Material
+- [什么是 Material](material-design/whatis-material-design/README.md)
   - [环境](material-design/whatis-material-design/environment.md)
   - [Material 属性](material-design/whatis-material-design/material-properties.md)
   - [高度和阴影](material-design/whatis-material-design/elevation-shadows.md)
-- 动画
+- [动画](material-design/animation/README.md)
   - [真实的动作](material-design/animation/authentic-motion.md)
   - [响应式交互](material-design/animation/responsive-interaction.md)
   - [有意义的转场动画](material-design/animation/meaningful-transitions.md)
   - [打动用户的细节](material-design/animation/delightful-details.md)
-- 样式
+- [样式](material-design/style/README.md)
   - [色彩](material-design/style/color.md)
   - [字体排版](material-design/style/typography.md)
   - [图标](material-design/style/icons.md)
   - [图像](material-design/style/imagery.md)
   - [书写](material-design/style/writing.md)
-- 布局
+- [布局](material-design/layout/README.md)
   - [准则](material-design/layout/layout-principles.md)
   - [单位和度量](material-design/layout/units-measurements.md)
   - [度量与边框](material-design/layout/metrics-and-keylines.md)
   - [结构](material-design/layout/structure.md)
   - [自适应 UI](material-design/layout/adaptive-ui.md)
-- 组件
+- [组件](material-design/components/README.md)
   - [底部动作条](material-design/components/bottom-sheets.md)
   - [按钮](material-design/components/buttons.md)
   - [按钮：浮动操作按钮](material-design/components/buttons-floating-action-button.md)
@@ -45,7 +44,7 @@
   - [Tabs](material-design/components/tabs.md)
   - [文本框](material-design/components/text-fields.md)
   - [工具提示](material-design/components/tooltips.md)
-- 模式
+- [模式](material-design/patterns/README.md)
   - [App 结构](material-design/patterns/app-structure.md)
   - [数据格式](material-design/patterns/data-formats.md)
   - [空状态](material-design/patterns/empty-states.md)
@@ -63,14 +62,13 @@
   - [影像处理](material-design/patterns/imagery-treatment.md)
   - [搜索](material-design/patterns/search.md)
   - [刷新](material-design/patterns/swipe-to-refresh.md)
-- 可用性
+- [可用性](material-design/usability/README.md)
   - [可达性](material-design/usability/accessibility.md)
   - [双向性](material-design/usability/bidirectionality.md)
-- 资源
+- [资源](material-design/resources/README.md)
   - [布局模板](material-design/resources/layout-templates.md)
   - [设备](material-design/resources/devices.md)
   - [贴片集](material-design/resources/sticker-sheets.md)
   - [Roboto 字体](material-design/resources/roboto-font.md)
   - [调色板](material-design/resources/color-palettes.md)
-- What’s New
-  - [更新记录](material-design/whats-new/whats-new.md)
+- [更新记录](material-design/whats-new/whats-new.md)
