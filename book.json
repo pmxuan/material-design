@@ -1,9 +1,9 @@
 {
-    "root": "./material-design/",
-    "title": "字条网示例文档",
-    "head_title": "_示例文档_字条网",
-    "head_description": "描述",
-    "head_keywords": "关键词",
+    "root": "./",
+    "title": "Material Design 中文版",
+    "head_title": "_Material Design 中文版_字条网",
+    "head_description": "Google I/O 2014 发布 Material Design，字条网于 2014-09-09 上线中文版，并稳稳占据百度和 Google「material design」关键字的第一名。历时一年，官方已经新增 20+ 章节，我们再次发力，于「2015-08-16」翻译校对完毕所有新增章节，重新发布。",
+    "head_keywords": "Material Design 中文版,Android教程,Android设计规范",
     "logo": "./images/logo.png",
 
     "gitbook": ">= 3.0.0",
@@ -22,7 +22,7 @@
 
     "pluginsConfig": {
         "sitemap": {
-            "hostname": "http://zitiao.org/simple"
+            "hostname": "http://zitiao.org/material-design"
         }
     }
 }
