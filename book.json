@@ -17,12 +17,12 @@
         "-search",
         "search-pro",
         "theme-official",
-        "sitemap"
+        "sitemap-general"
     ],
 
     "pluginsConfig": {
-        "sitemap": {
-            "hostname": "http://zitiao.org/material-design"
+        "sitemap-general": {
+            "prefix": "http://zitiao.org/material-design/"
         }
     }
 }
